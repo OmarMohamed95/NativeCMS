@@ -1,1 +1,8 @@
+/app/controller/note.php
+/app/controller/site.php
+/app/model/note_model.php
+/app/model/site_model.php
+/app/view/note
+/app/view/site
+/libs/adminBootstrab
 /config
